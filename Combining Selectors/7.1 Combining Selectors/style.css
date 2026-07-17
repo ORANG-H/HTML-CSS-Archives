@@ -1,0 +1,10 @@
+/* Write your code here: */
+h1 , h2 { color: blueviolet;}
+div > p { color: firebrick;}
+div ul .done { 
+    color: seagreen;
+}
+div ul { 
+    color: blue;
+}
+ul p .done{font-size: 0.5rem;}

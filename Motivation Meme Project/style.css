@@ -1,0 +1,12 @@
+
+.main{ 
+width: 50%;
+margin-left: 25%;
+margin-top: 100px;
+color: rgb(179, 24, 24);
+  font-family: "Libre Baskerville", serif;
+text-align: center;}
+img{
+  border: 5px rgb(0, 0, 0) solid;
+  width: 100%;
+}
